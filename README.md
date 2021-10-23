@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ashraful Gafur</h1>
-<h3 align="center">I am a University of Dhaka currently pursuing a bachelor's degree in software engineering.</h3>
+<h3 align="center">I am a University of Dhaka student pursuing a bachelor's degree in software engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulgafurtantan&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulgafurtantan" /> </p>
 
