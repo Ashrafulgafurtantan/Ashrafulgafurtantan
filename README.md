@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1639008000&v=beta&t=BWvsqjIVnIKpjYocWZJQz6CKeyahHC6WDPqE6_Lpo20)](https://khushboogoel01.github.io)
+[![MasterHead]https://cdn.dribbble.com/users/1027121/screenshots/10752712/media/3c24efe9c82fe1c8bcf3d93fa4893341.gif)]
 <!--
 **Ashrafulgafurtantan/Ashrafulgafurtantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
