@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1027121/screenshots/10752712/media/3c24efe9c82fe1c8bcf3d93fa4893341.gif">
+<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/1027121/screenshots/10752712/media/3c24efe9c82fe1c8bcf3d93fa4893341.gif">
 <h1 align="center">Hi 👋, I'm Ashraful Gafur</h1>
 <h3 align="center">I am a University of Dhaka student pursuing a bachelor's degree in software engineering.</h3>
 
