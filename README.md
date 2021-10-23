@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashraful Gafur</h1>
 <h3 align="center">I am a University of Dhaka student pursuing a bachelor's degree in software engineering.</h3>
+<br/>
+<br/>
 <img align="right" alt="Coding" width="350" height="350" src="https://cdn.dribbble.com/users/1027121/screenshots/10752712/media/3c24efe9c82fe1c8bcf3d93fa4893341.gif">
 ## 📊 My Github Stats
   <br/>
