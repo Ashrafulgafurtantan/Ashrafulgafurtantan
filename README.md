@@ -19,5 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulgafurtantan&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulgafurtantan" /> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafulgafurtantan&show_icons=true&locale=en&layout=compact" alt="ashrafulgafurtantan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafulgafurtantan&show_icons=true&locale=en" alt="ashrafulgafurtantan" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafulgafurtantan&show_icons=true&locale=en" alt="ashrafulgafurtantan" /></p>
