@@ -6,16 +6,12 @@
 <br/>
 <a href="https://github.com/Ashrafulgafurtantan/github-readme-stats"><img alt="Ashraful Gafur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashrafulgafurtantan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Ashrafulgafurtantan/github-readme-stats"><img alt="Ashraful Gafur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrafulgafurtantan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
- 
-<br/>
-<br/>
 
+<br/>
 <a href="https://github.com/Ashrafulgafurtantan/github-readme-activity-graph"><img alt="Ashraful Gafur's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashrafulgafurtantan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
 <span class="text-h5"><b>❤  Views and Followers </b></span>
-<br/>
 <br/>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Ashrafulgafurtantan">
