@@ -1,19 +1,33 @@
-<!--
-**Ashrafulgafurtantan/Ashrafulgafurtantan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashraful Gafur</h1>
+<h3 align="center">I am a University of Dhaka student pursuing a bachelor's degree in software engineering.</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulgafurtantan&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulgafurtantan" /> </p>
 
-<h1 align="center">Hi 👋, I'm Ashraful Gafur</h1>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrafulgafurtantan&show_icons=true&locale=en&layout=compact" alt="ashrafulgafurtantan" /></p>
+<img align="right" alt="Coding" width="350" height="350" src="https://cdn.dribbble.com/users/1027121/screenshots/10752712/media/3c24efe9c82fe1c8bcf3d93fa4893341.gif">
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ashrafulgafurtantan&show_icons=true&locale=en" alt="ashrafulgafurtantan" /></p>
+
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/Ashrafulgafurtantan/github-readme-stats"><img alt="Ashraful Gafur's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashrafulgafurtantan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ashrafulgafurtantan/github-readme-stats"><img alt="Ashraful Gafur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrafulgafurtantan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ 
+<br/>
+<br/>
+
+<a href="https://github.com/Ashrafulgafurtantan/github-readme-activity-graph"><img alt="Ashraful Gafur's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashrafulgafurtantan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+
+
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashraful Gafur</h1>
 <h3 align="center">I am a University of Dhaka student pursuing a bachelor's degree in software engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrafulgafurtantan&label=Profile%20views&color=0e75b6&style=flat" alt="ashrafulgafurtantan" /> </p>
