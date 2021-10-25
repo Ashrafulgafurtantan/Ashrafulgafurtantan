@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ashraful Gafur</h1>
 <h3 align="center">I am a student of University of Dhaka, pursuing a bachelor's degree in software engineering.</h3>
  <span class="text-h4"><b>📊 My Github Stats </b> </span>
@@ -22,4 +21,3 @@
     <img src="https://komarev.com/ghpvc/?username=Ashrafulgafurtantan">
 </a>
 <a href="https://github.com/Ashrafulgafurtantan?tab=followers"><img src="https://img.shields.io/github/followers/Ashrafulgafurtantan?label=Followers&style=social" alt="GitHub Badge"></a>
-
