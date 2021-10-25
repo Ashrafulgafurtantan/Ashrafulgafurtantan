@@ -7,8 +7,7 @@
   <a href="https://github.com/Ashrafulgafurtantan/github-readme-stats"><img align="left" alt="Ashraful Gafur's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashrafulgafurtantan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
-<!-- <a href="https://github.com/Ashrafulgafurtantan/github-readme-activity-graph"><img alt="Ashraful Gafur's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashrafulgafurtantan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
-[![Ashraful Gafur's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashrafulgafurtantan&theme=dracula)](https://github.com/Ashrafulgafurtantan/github-readme-activity-graph)
+<a href="https://github.com/Ashrafulgafurtantan/github-readme-activity-graph"><img alt="Ashraful Gafur's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ashrafulgafurtantan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
 <br/>
